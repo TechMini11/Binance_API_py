@@ -5,7 +5,7 @@ them in google cloud bigtable and google cloud bigquery
 
 ## Stack Architecture:
 
-<img src="Screenshots/Screenshot.png" width="300">
+<img src="/Architecture.png" width="300">
 
 ### Python Library Installation in Cloud Shell:
 
