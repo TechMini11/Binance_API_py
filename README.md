@@ -1,9 +1,9 @@
-# binanceapi_python:
+# BinanceApi_python:
 
 Create a python script to retrieve data from binance api for few crypto coins and store 
 them in google cloud bigtable and google cloud bigquery
 
-# Python Library Installation in Cloud Shell:
+### Python Library Installation in Cloud Shell:
 
 Pip install google-cloud-bigtable
 Pip install google-cloud-bigquery
