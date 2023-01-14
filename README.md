@@ -3,6 +3,10 @@
 Create a python script to retrieve data from binance api for few crypto coins and store 
 them in google cloud bigtable and google cloud bigquery
 
+## Stack Architecture:
+
+<img src="Screenshots/Screenshot.png" width="300">
+
 ### Python Library Installation in Cloud Shell:
 
 Pip install google-cloud-bigtable
